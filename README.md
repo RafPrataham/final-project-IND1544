@@ -1,8 +1,8 @@
 # final-project-IND1544
 
 ## Inilah ide untuk proyek saya:
-> membuat chatbot yang dapat membeda jenis-jenis sampah (organik, sulit terurai, limbah medis)
-> integrasi dengan teachable machine
+> membuat chatbot yang dapat membeda jenis-jenis sampah (organik, sulit terurai, limbah medis) \n
+> integrasi dengan teachable machine \n
 > menggunakan teknologi classification dari computer vision
 
 M8L1 notes:
