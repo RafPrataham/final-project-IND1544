@@ -1,5 +1,8 @@
 # final-project-IND1544
 
+## Inilah ide untuk proyek saya:
+> membuat chatbot yang dapat membeda jenis-jenis sampah (organik, sulit terurai, limbah medis)
+
 M8L1 notes:
 
 Tema Hackathon -> Perubahan iklim
